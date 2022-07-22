@@ -29,8 +29,7 @@
   </div>
       
       
-     <!-- PROJECT 2 -->
-      
+     <!-- PROJECT 2 -->      
 <h3 align="center" color="white">Jenn's Noodle Bar</h2>
       <br>
  <p align="center">
