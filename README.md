@@ -8,9 +8,10 @@
 - 👨‍💻 All of my projects are available at [antonxdev.netlify.app](antonxdev.netlify.app)
 
 - 📫 How to reach me **antonxdev@proton.me**
-<h3 align="left">Projects </h3>
-<p align="left">
-  Bear Brawl Bar
+<h3 align="center">Projects </h3>
+<p align="center">
+  Bear Brawl Bar 
+  <p align ='center'> A website for London Style bar and Speakeasy </p>
   </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
