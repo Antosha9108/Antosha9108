@@ -22,8 +22,8 @@
  
   A website for London Style bar and Speakeasy
   </p>
-  <a href="[https://full-stack-interview-prep.up.railway.app/](https://bearbrawlbar.netlify.app)">
-  <img src="https://i.postimg.cc/fbVwXfYY/bar.gif">
+  <a href="https://bearbrawlbar.netlify.app">
+      <a href='https://postimg.cc/WDPLcrW4' target='_blank'><img src='https://i.postimg.cc/WDPLcrW4/bar.gif' border='0' alt='bar'/></a>
   
   
   
