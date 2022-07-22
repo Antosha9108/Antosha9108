@@ -29,7 +29,8 @@
   </div>
       
       
-       <!-- PROJECT 2 -->
+     <!-- PROJECT 2 -->
+      
 <h3 align="center" color="white">Jenn's Noodle Bar</h2>
       <br>
  <p align="center">
@@ -39,6 +40,9 @@
       <a href="https://noodlebar.netlify.app">   
       <img src="https://user-images.githubusercontent.com/67973604/180505809-0e4f550a-c2b9-4645-9f50-8e6aad54a5f2.gif" />
   </div>
+        
+        <br>
+        <br>
   <!-- SOCIALS AND LINKS -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
