@@ -23,7 +23,7 @@
   A website for London Style bar and Speakeasy
   </p>
       <a href="https://bearbrawlbar.netlify.app" target='_blank'>
-      <img src='https://i.postimg.cc/WDPLcrW4/bar.gif' border='0' alt='bar'/></a>
+      <img align="center" src='https://i.postimg.cc/WDPLcrW4/bar.gif' alt='bar'/></a>
   
   
   
