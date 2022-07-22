@@ -26,9 +26,7 @@
   <div align="center" >
       <a href="https://bearbrawlbar.netlify.app">   
       <img src="https://user-images.githubusercontent.com/67973604/180502373-dc69ad08-a54e-4816-9ef2-3edc5ce5f474.gif" />
-  </div>
-      
-      
+  </div>  
      <!-- PROJECT 2 -->      
 <h3 align="center" color="white">Jenn's Noodle Bar</h2>
       <br>
@@ -38,10 +36,19 @@
   <div align="center" >
       <a href="https://noodlebar.netlify.app">   
       <img src="https://user-images.githubusercontent.com/67973604/180505809-0e4f550a-c2b9-4645-9f50-8e6aad54a5f2.gif" />
-  </div>
-        
+  </div>   
         <br>
         <br>
+   <!-- PROJECT 3 -->         
+  <h3 align="center" color="white">Bear Brawl Bar</h2>
+      <br>
+ <p align="center">
+  A website for London Style bar and Speakeasy
+  </p>
+  <div align="center" >
+      <a href="https://bearbrawlbar.netlify.app">   
+      <img src="https://user-images.githubusercontent.com/67973604/180502373-dc69ad08-a54e-4816-9ef2-3edc5ce5f474.gif" />
+  </div>  
   <!-- SOCIALS AND LINKS -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
