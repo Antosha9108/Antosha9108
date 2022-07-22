@@ -36,8 +36,8 @@
   A website Local Noodle Restaurant
   </p>
   <div align="center" >
-      <a href="[https://bearbrawlbar.netlify.app](https://noodlebar.netlify.app)">   
-      <img src="[https://user-images.githubusercontent.com/67973604/180502373-dc69ad08-a54e-4816-9ef2-3edc5ce5f474.gif](https://user-images.githubusercontent.com/67973604/180505809-0e4f550a-c2b9-4645-9f50-8e6aad54a5f2.gif)" />
+      <a href="https://noodlebar.netlify.app">   
+      <img src="https://user-images.githubusercontent.com/67973604/180505809-0e4f550a-c2b9-4645-9f50-8e6aad54a5f2.gif" />
   </div>
   <!-- SOCIALS AND LINKS -->
 <h3 align="left">Connect with me:</h3>
