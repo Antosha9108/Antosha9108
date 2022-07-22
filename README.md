@@ -17,9 +17,7 @@
 <!-- PROJECTS -->
       <!-- PROJECT 1 -->
 <h2 align="center">Projects </h2>
-<h3 align="center" color="white">Full Stack Interview Questions</h2>
-<p align="center">
- Bear Brawl Bar</p>
+<h3 align="center" color="white">Bear Brawl Bar</h2>
       <br>
  <p align="center">
   A website for London Style bar and Speakeasy
