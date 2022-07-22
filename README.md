@@ -19,7 +19,9 @@
 <h2 align="center">Projects </h2>
 <h3 align="center" color="white">Full Stack Interview Questions</h2>
 <p align="center">
- Bear Brawl Bar
+ Bear Brawl Bar</p>
+      <br>
+ <p align="center">
   A website for London Style bar and Speakeasy
   </p>
       <a href="https://bearbrawlbar.netlify.app" target='_blank'>
