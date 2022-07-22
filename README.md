@@ -23,7 +23,7 @@
   A website for London Style bar and Speakeasy
   </p>
   <a href="[https://full-stack-interview-prep.up.railway.app/](https://bearbrawlbar.netlify.app)">
-  <img src="[https://github.com/bytesbybianca/readme-assets/raw/main/project-images/fullStackInterviewQuestions.gif?raw=true](https://i.postimg.cc/fbVwXfYY/bar.gif)" alt="bear brawl bar website" />
+  <img src="https://i.postimg.cc/fbVwXfYY/bar.gif">
   
   
   
