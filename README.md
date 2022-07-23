@@ -46,8 +46,8 @@
   A Photography Portfolio of my own works
   </p>
   <div align="center" >
-      <a href="https://bearbrawlbar.netlify.app">   
-      <img src="https://user-images.githubusercontent.com/67973604/180502373-dc69ad08-a54e-4816-9ef2-3edc5ce5f474.gif" />
+      <a href="https://shelkovnikovxphoto.netlify.app">   
+      <img src="https://user-images.githubusercontent.com/67973604/180614677-db58f4f7-632d-4cc4-8d7b-cc572fef5d80.gif" />
   </div>  
   <!-- SOCIALS AND LINKS -->
 <h3 align="left">Connect with me:</h3>
