@@ -31,7 +31,7 @@
 <h3 align="center" color="white">Jenn's Noodle Bar</h2>
       <br>
  <p align="center">
-  A website Local Noodle Restaurant
+  A website for a Local Noodle Restaurant
   </p>
   <div align="center" >
       <a href="https://noodlebar.netlify.app">   
@@ -46,10 +46,8 @@
   A Photography Portfolio of my own works
   </p>
   <div align="center" >
-      <a href="https://shelkovnikovxphoto.netlify.app">   
-      <img src="https://user-images.githubusercontent.com/67973604/180506875-40d42556-cc5a-46fd-b90e-642341820b48.gif" />
-      
-            
+      <a href="https://bearbrawlbar.netlify.app">   
+      <img src="https://user-images.githubusercontent.com/67973604/180502373-dc69ad08-a54e-4816-9ef2-3edc5ce5f474.gif" />
   </div>  
   <!-- SOCIALS AND LINKS -->
 <h3 align="left">Connect with me:</h3>
