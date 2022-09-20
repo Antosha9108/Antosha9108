@@ -49,6 +49,19 @@
       <a href="https://shelkovnikovxphoto.netlify.app">   
       <img src="https://user-images.githubusercontent.com/67973604/180614677-db58f4f7-632d-4cc4-8d7b-cc572fef5d80.gif" />
   </div>  
+  <br>
+        <br>
+   <!-- PROJECT 4 -->         
+  <h3 align="center" color="white">DevDays</h2>
+      <br>
+ <p align="center">
+  DevDays gives developers a single location to keep a journal about their day-to-day work.
+  </p>
+  <div align="center" >
+      <a href="https://devdays.up.railway.app">   
+      <img src="https://user-images.githubusercontent.com/67973604/191321026-9311566e-e6ab-4c5a-af0d-dee50838ddc8.gif" />
+
+  </div>  
   <!-- SOCIALS AND LINKS -->
 <div align ='center'>
 <h3 >Connect with me:</h3>
