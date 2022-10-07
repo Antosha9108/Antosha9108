@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Anton</h1>
 <h3 align="center">I am a full-stack software engineer from Boston, MA. I am currently learning MERN stack and working on my 100 hours project. When i'm not coding I enjoy Photography, Drones and 3D printing.</h3>
 
-- 🔭 I’m currently working on **POS for a cocktail bar**
+- 🔭 I’m currently working on **Party Planning app**
 
 - 🌱 I’m currently learning **Javascript, Node.js, Express**
 
