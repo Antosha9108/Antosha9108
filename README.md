@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Party Planning app**
 
-- 🌱 I’m currently learning **Javascript, Node.js, Express**
+- 🌱 I’m currently learning **React, data structures and algorithms**
 
 - 👨‍💻 All of my projects are available at [antonxdev.netlify.app](antonxdev.netlify.app)
 
