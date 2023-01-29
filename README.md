@@ -58,7 +58,7 @@
   DevDays gives developers a single location to keep a journal about their day-to-day work.
   </p>
   <div align="center" >
-      <a href="http://teamasaurus-devdays.herokuapp.com/">   
+      <a href="https://devdays.onrender.com/signup">   
       <img src="https://user-images.githubusercontent.com/67973604/191321026-9311566e-e6ab-4c5a-af0d-dee50838ddc8.gif" />
 
   </div>  
