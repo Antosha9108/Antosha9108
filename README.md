@@ -49,7 +49,7 @@
       <a href="https://shelkovnikovxphoto.netlify.app">   
       <img src="https://user-images.githubusercontent.com/67973604/180614677-db58f4f7-632d-4cc4-8d7b-cc572fef5d80.gif" />
   </div>  
-  <br>
+        <br>
         <br>
    <!-- PROJECT 4 -->         
   <h3 align="center" color="white">DevDays</h2>
