@@ -64,6 +64,19 @@
   </div>  
         <br>
         <br>
+         <!-- PROJECT 5 -->         
+  <h3 align="center" color="white">Gather</h2>
+      <br>
+ <p align="center">
+  A potluck application to help organize events and parties.
+  </p>
+  <div align="center" >
+      <a href="https://gather.cyclic.app">   
+      <img src="https://user-images.githubusercontent.com/67973604/194168057-c3d3e61e-aa25-486b-ae90-de607c4037fe.gif" />
+
+  </div>  
+
+
   <!-- SOCIALS AND LINKS -->
 <div align ='center'>
 <h3 >Connect with me:</h3>
