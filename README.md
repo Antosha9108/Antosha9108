@@ -72,7 +72,7 @@
   </p>
   <div align="center" >
       <a href="https://gather.cyclic.app">   
-      <img src=""/>
+      <img src="https://user-images.githubusercontent.com/67973604/229197978-cdbd194d-5da7-44a7-8a5e-d1e3f003bf19.png" />
 
   </div>  
 
