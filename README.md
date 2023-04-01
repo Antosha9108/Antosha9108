@@ -72,7 +72,7 @@
   </p>
   <div align="center" >
       <a href="https://gather.cyclic.app">   
-      <img src="https://giphy.com/embed/crCY7lMagmV7p1V4Fo" />
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2Q5YmU4ZjhmY2U4ZTIyZmRlNmIzZTU5NjRmNjRkYTU4MDRmZDRkNSZjdD1n/crCY7lMagmV7p1V4Fo/giphy.gif" />
             
 
 
