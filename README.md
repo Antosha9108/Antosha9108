@@ -73,11 +73,35 @@
   <div align="center" >
       <a href="https://gather.cyclic.app">   
       <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2Q5YmU4ZjhmY2U4ZTIyZmRlNmIzZTU5NjRmNjRkYTU4MDRmZDRkNSZjdD1n/crCY7lMagmV7p1V4Fo/giphy.gif" />
+  </div>  
+   <br>
+        <br>
+         <!-- PROJECT 6 -->         
+  <h3 align="center" color="white">DrinkScript</h2>
+      <br>
+ <p align="center">
+A Single Page Application created for bartenders to quickly look up the drink recipes.  </p>
+  <div align="center" >
+      <a href="[https://gather.cyclic.app"](https://drinkscript.netlify.app/)>   
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDNkNGI0NDE0YTZ4eXQ0c2phZHBjdHd6YXR4dTk5cjd1eXVtejY0ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BZNLjR42oAsuMBDinn/giphy.gif" />
+  </div>  
+ <br>
+        <br>
+         <!-- PROJECT 7 -->         
+  <h3 align="center" color="white">Boston Code & Coffee</h2>
+      <br>
+ <p align="center">
+  An Open Source Project for a Boston Code & Coffee meetup.
+  </p>
+  <div align="center" >
+      <a href="https://www.bostoncodeandcoffee.com/">   
+      <img src="https://media.giphy.com/media/BLjdAvfYiQPXGJSJ6p/giphy.gif" />
             
 
 
 
   </div>  
+
 
 
   <!-- SOCIALS AND LINKS -->
