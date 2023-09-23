@@ -1,7 +1,7 @@
 <!-- INTRO -->
 
 <h1 align="center">Hi 👋, I'm Anton</h1>
-<h3 align="center">I am a full-stack software engineer from Boston, MA. I am currently learning MERN stack and working on my 100 hours project. When i'm not coding I enjoy Photography, Drones and 3D printing.</h3>
+<h3 align="center">I am a full-stack software engineer from Boston. I am currently working in MERN stack and building projects. When i'm not coding I enjoy Photography, Drones and 3D printing.</h3>
 
 - 🔭 I’m currently working on **Party Planning app**
 
