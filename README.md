@@ -82,7 +82,7 @@
  <p align="center">
 A Single Page Application created for bartenders to quickly look up the drink recipes.  </p>
   <div align="center" >
-      <a href="[https://gather.cyclic.app"](https://drinkscript.netlify.app/)>   
+      <a href="https://drinkscript.netlify.app">   
       <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDNkNGI0NDE0YTZ4eXQ0c2phZHBjdHd6YXR4dTk5cjd1eXVtejY0ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BZNLjR42oAsuMBDinn/giphy.gif" />
   </div>  
  <br>
