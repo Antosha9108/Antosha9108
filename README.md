@@ -35,7 +35,7 @@ The Visions website is a digital platform showcasing Center Centre's work in adv
   </p>
   <div align="center" >
       <a href="https://visions.centercentre.com/">   
-      <img src="https://user-images.githubusercontent.com/67973604/180505809-0e4f550a-c2b9-4645-9f50-8e6aad54a5f2.gif" />
+      <img src="https://github.com/user-attachments/assets/877efcb7-ad77-4565-812c-d43e86ff424f" />
   </div>   
         <br>
         <br>
