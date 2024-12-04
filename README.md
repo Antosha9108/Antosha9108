@@ -21,12 +21,24 @@
 <h3 align="center" color="white">UXMETRICS.CC</h2>
       <br>
  <p align="center">
- The UX Metrics website provides tools and resources for measuring and improving user experience, helping organizations understand their users better.
+The UX Metrics website provides tools and resources for measuring and improving user experience, helping organizations understand their users better. It features insights, case studies, and best practices to drive effective UX design and decision-making.
   </p>
   <div align="center" >
       <a href="https://ux-metrics.centercentre.com/">   
       <img src="https://github.com/user-attachments/assets/40b75c1a-fdc0-4872-854b-c03e3b499f9c" />
   </div>  
+              <!-- PROJECT 2 -->      
+<h3 align="center" color="white">Craft + Lead A Strategic UX Vision</h2>
+      <br>
+ <p align="center">
+The Visions website is a digital platform showcasing Center Centre's work in advancing design and UX education. It highlights programs, resources, and collaborations aimed at fostering innovation and professional growth in the user experience industry.
+  </p>
+  <div align="center" >
+      <a href="https://visions.centercentre.com/">   
+      <img src="https://user-images.githubusercontent.com/67973604/180505809-0e4f550a-c2b9-4645-9f50-8e6aad54a5f2.gif" />
+  </div>   
+        <br>
+        <br>
      <!-- PROJECT 2 -->      
 <h3 align="center" color="white">Jenn's Noodle Bar</h2>
       <br>
@@ -35,7 +47,7 @@
   </p>
   <div align="center" >
       <a href="https://noodlebar.netlify.app">   
-      <img src="https://user-images.githubusercontent.com/67973604/180505809-0e4f550a-c2b9-4645-9f50-8e6aad54a5f2.gif" />
+      <img src="https://github.com/user-attachments/assets/877efcb7-ad77-4565-812c-d43e86ff424f" />
   </div>   
         <br>
         <br>
