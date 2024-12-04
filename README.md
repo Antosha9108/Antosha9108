@@ -39,6 +39,44 @@ The Visions website is a digital platform showcasing Center Centre's work in adv
   </div>   
         <br>
         <br>
+                         <!-- PROJECT 3 -->         
+
+ <h3 align="center" color="white">Boston Code & Coffee</h2>
+      <br>
+ <p align="center">
+  An Open Source Project for a Boston Code & Coffee meetup.
+  </p>
+  <div align="center" >
+      <a href="https://www.bostoncodeandcoffee.com/">   
+      <img src="https://media.giphy.com/media/BLjdAvfYiQPXGJSJ6p/giphy.gif" />
+  </div>  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+             <!-- PROJECT 5 -->         
+  <h3 align="center" color="white">Gather</h2>
+      <br>
+ <p align="center">
+  A potluck application to help organize events and parties.
+  </p>
+  <div align="center" >
+      <a href="https://gather-u4og.onrender.com/">   
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2Q5YmU4ZjhmY2U4ZTIyZmRlNmIzZTU5NjRmNjRkYTU4MDRmZDRkNSZjdD1n/crCY7lMagmV7p1V4Fo/giphy.gif" />
+  </div>  
+   <br>
+        <br>
      <!-- PROJECT 2 -->      
 <h3 align="center" color="white">Jenn's Noodle Bar</h2>
       <br>
@@ -75,18 +113,6 @@ The Visions website is a digital platform showcasing Center Centre's work in adv
 
   </div>  
         <br>
-        <br>
-         <!-- PROJECT 5 -->         
-  <h3 align="center" color="white">Gather</h2>
-      <br>
- <p align="center">
-  A potluck application to help organize events and parties.
-  </p>
-  <div align="center" >
-      <a href="https://gather-u4og.onrender.com/">   
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2Q5YmU4ZjhmY2U4ZTIyZmRlNmIzZTU5NjRmNjRkYTU4MDRmZDRkNSZjdD1n/crCY7lMagmV7p1V4Fo/giphy.gif" />
-  </div>  
-   <br>
         <br>
          <!-- PROJECT 6 -->         
   <h3 align="center" color="white">DrinkScript</h2>
