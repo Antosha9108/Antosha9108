@@ -27,6 +27,8 @@ The UX Metrics website provides tools and resources for measuring and improving 
       <a href="https://ux-metrics.centercentre.com/">   
       <img src="https://github.com/user-attachments/assets/40b75c1a-fdc0-4872-854b-c03e3b499f9c" />
   </div>  
+            <br>
+               <br>
       <!-- PROJECT 2 -->      
 <h3 align="center" color="white">Craft + Lead A Strategic UX Vision</h2>
       <br>
