@@ -19,7 +19,7 @@
       <!-- PROJECT 1 -->
 
 <h3 align="center" color="white">UXMETRICS.CC</h2>
-      <br>
+
  <p align="center">
 The UX Metrics website provides tools and resources for measuring and improving user experience, helping organizations understand their users better. It features insights, case studies, and best practices to drive effective UX design and decision-making.
   </p>
