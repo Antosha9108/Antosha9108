@@ -53,7 +53,6 @@ An Open Source Project for Boston Code & Coffee. The website serves as a hub for
         <br>
 <!-- PROJECT 4 -->         
   <h3 align="center" color="white">Gather</h3>
-      <br>
  <p align="center">
 A comprehensive potluck event management application. Allows users to log in,create new events and add items with descriptions.  </p>
   <div align="center" >
@@ -64,7 +63,6 @@ A comprehensive potluck event management application. Allows users to log in,cre
         <br>
      <!-- PROJECT 5 -->      
   <h3 align="center" color="white">DevDays</h3>
-      <br>
  <p align="center">
   DevDays gives developers a single location to keep a journal about their day-to-day work.
   </p>
@@ -88,7 +86,6 @@ A Single Page Web Application that dynamically generates cocktail recipes.The si
         <br>
          <!-- PROJECT 7 -->         
   <h3 align="center" color="white">Boston Code & Coffee</h3>
-      <br>
  <p align="center">
   An Open Source Project for a Boston Code & Coffee meetup.
   </p>
