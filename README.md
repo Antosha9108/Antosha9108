@@ -49,8 +49,9 @@ An Open Source Project for Boston Code & Coffee. The website serves as a hub for
       <a href="https://www.bostoncodeandcoffee.com/">   
       <img src="https://media.giphy.com/media/BLjdAvfYiQPXGJSJ6p/giphy.gif" />
   </div>  
-
-             <!-- PROJECT 4 -->         
+   <br>
+        <br>
+<!-- PROJECT 4 -->         
   <h3 align="center" color="white">Gather</h2>
       <br>
  <p align="center">
@@ -62,7 +63,6 @@ A comprehensive potluck event management application. Allows users to log in,cre
    <br>
         <br>
      <!-- PROJECT 5 -->      
-
   <h3 align="center" color="white">DevDays</h2>
       <br>
  <p align="center">
