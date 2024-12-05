@@ -18,8 +18,7 @@
 <h2 align="center">Projects </h2>
       <!-- PROJECT 1 -->
 
-<h3 align="center" color="white">UXMETRICS.CC</h2>
-
+<h3 align="center" color="white">UXMETRICS.CC</h3>
  <p align="center">
 The UX Metrics website provides tools and resources for measuring and improving user experience, helping organizations understand their users better. It features insights, case studies, and best practices to drive effective UX design and decision-making.
   </p>
@@ -31,7 +30,6 @@ The UX Metrics website provides tools and resources for measuring and improving 
                <br>
       <!-- PROJECT 2 -->      
 <h3 align="center" color="white">Craft + Lead A Strategic UX Vision</h2>
-      <br>
  <p align="center">
 The Visions website is a digital platform showcasing Center Centre's work in advancing design and UX education. It highlights programs, resources, and collaborations aimed at fostering innovation and professional growth in the user experience industry.
   </p>
