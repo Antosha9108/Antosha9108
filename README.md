@@ -125,5 +125,5 @@ A Single Page Web Application that dynamically generates cocktail recipes.The si
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=antosha9108&show_icons=true&theme=dark&title_color=ff4013&text_color=ffffff&locale=en" alt="antosha9108" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=antosha9108&theme=dark" alt="antosha9108" /></p>
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=antosha9108&theme=dark" alt="antosha9108" /></p>
         </div>
