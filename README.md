@@ -27,7 +27,7 @@ The UX Metrics website provides tools and resources for measuring and improving 
       <a href="https://ux-metrics.centercentre.com/">   
       <img src="https://github.com/user-attachments/assets/40b75c1a-fdc0-4872-854b-c03e3b499f9c" />
   </div>  
-              <!-- PROJECT 2 -->      
+      <!-- PROJECT 2 -->      
 <h3 align="center" color="white">Craft + Lead A Strategic UX Vision</h2>
       <br>
  <p align="center">
@@ -39,69 +39,30 @@ The Visions website is a digital platform showcasing Center Centre's work in adv
   </div>   
         <br>
         <br>
-                         <!-- PROJECT 3 -->         
+      <!-- PROJECT 3 -->         
 
  <h3 align="center" color="white">Boston Code & Coffee</h2>
       <br>
  <p align="center">
-  An Open Source Project for a Boston Code & Coffee meetup.
-  </p>
+An Open Source Project for Boston Code & Coffee. The website serves as a hub for event information, community updates, and resources, supporting the group's mission to foster collaboration and learning in the Boston tech community.  </p>
   <div align="center" >
       <a href="https://www.bostoncodeandcoffee.com/">   
       <img src="https://media.giphy.com/media/BLjdAvfYiQPXGJSJ6p/giphy.gif" />
   </div>  
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-             <!-- PROJECT 5 -->         
+             <!-- PROJECT 4 -->         
   <h3 align="center" color="white">Gather</h2>
       <br>
  <p align="center">
-  A potluck application to help organize events and parties.
-  </p>
+A comprehensive potluck event management application. Allows users to log in,create new events and add items with descriptions.  </p>
   <div align="center" >
       <a href="https://gather-u4og.onrender.com/">   
       <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2Q5YmU4ZjhmY2U4ZTIyZmRlNmIzZTU5NjRmNjRkYTU4MDRmZDRkNSZjdD1n/crCY7lMagmV7p1V4Fo/giphy.gif" />
   </div>  
    <br>
         <br>
-     <!-- PROJECT 2 -->      
-<h3 align="center" color="white">Jenn's Noodle Bar</h2>
-      <br>
- <p align="center">
-  A website for a Local Noodle Restaurant
-  </p>
-  <div align="center" >
-      <a href="https://noodlebar.netlify.app">   
-      <img src="https://github.com/user-attachments/assets/877efcb7-ad77-4565-812c-d43e86ff424f" />
-  </div>   
-        <br>
-        <br>
-   <!-- PROJECT 3 -->         
-  <h3 align="center" color="white">Photography Portfolio</h2>
-      <br>
- <p align="center">
-  A Photography Portfolio of my own works
-  </p>
-  <div align="center" >
-      <a href="https://shelkovnikovxphoto.netlify.app">   
-      <img src="https://user-images.githubusercontent.com/67973604/180614677-db58f4f7-632d-4cc4-8d7b-cc572fef5d80.gif" />
-  </div>  
-        <br>
-        <br>
-   <!-- PROJECT 4 -->         
+     <!-- PROJECT 5 -->      
+
   <h3 align="center" color="white">DevDays</h2>
       <br>
  <p align="center">
@@ -118,7 +79,7 @@ The Visions website is a digital platform showcasing Center Centre's work in adv
   <h3 align="center" color="white">DrinkScript</h2>
       <br>
  <p align="center">
-A Single Page Application created for bartenders to quickly look up the drink recipes.  </p>
+A Single Page Web Application that dynamically generates cocktail recipes.The site features a real-time search bar, providing instant results as users type, ensuring a fast and intuitive user experience.  </p>
   <div align="center" >
       <a href="https://drinkscript.netlify.app">   
       <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDNkNGI0NDE0YTZ4eXQ0c2phZHBjdHd6YXR4dTk5cjd1eXVtejY0ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BZNLjR42oAsuMBDinn/giphy.gif" />
