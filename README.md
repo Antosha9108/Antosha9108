@@ -42,7 +42,6 @@ The Visions website is a digital platform showcasing Center Centre's work in adv
       <!-- PROJECT 3 -->         
 
  <h3 align="center" color="white">Boston Code & Coffee</h3>
-      <br>
  <p align="center">
 An Open Source Project for Boston Code & Coffee. The website serves as a hub for event information, community updates, and resources, supporting the group's mission to foster collaboration and learning in the Boston tech community.  </p>
   <div align="center" >
@@ -75,27 +74,11 @@ A comprehensive potluck event management application. Allows users to log in,cre
         <br>
          <!-- PROJECT 6 -->         
   <h3 align="center" color="white">DrinkScript</h3>
-      <br>
  <p align="center">
 A Single Page Web Application that dynamically generates cocktail recipes.The site features a real-time search bar, providing instant results as users type, ensuring a fast and intuitive user experience.  </p>
   <div align="center" >
       <a href="https://drinkscript.netlify.app">   
       <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDNkNGI0NDE0YTZ4eXQ0c2phZHBjdHd6YXR4dTk5cjd1eXVtejY0ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BZNLjR42oAsuMBDinn/giphy.gif" />
-  </div>  
- <br>
-        <br>
-         <!-- PROJECT 7 -->         
-  <h3 align="center" color="white">Boston Code & Coffee</h3>
- <p align="center">
-  An Open Source Project for a Boston Code & Coffee meetup.
-  </p>
-  <div align="center" >
-      <a href="https://www.bostoncodeandcoffee.com/">   
-      <img src="https://media.giphy.com/media/BLjdAvfYiQPXGJSJ6p/giphy.gif" />
-            
-
-
-
   </div>  
 
 
