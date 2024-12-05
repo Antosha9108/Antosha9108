@@ -15,7 +15,7 @@
 
 
 <!-- PROJECTS -->
-<h2 align="center">Projects </h2>
+<h3 align="center">Projects </h3>
       <!-- PROJECT 1 -->
 
 <h3 align="center" color="white">UXMETRICS.CC</h3>
@@ -29,7 +29,7 @@ The UX Metrics website provides tools and resources for measuring and improving 
             <br>
                <br>
       <!-- PROJECT 2 -->      
-<h3 align="center" color="white">Craft + Lead A Strategic UX Vision</h2>
+<h3 align="center" color="white">Craft + Lead A Strategic UX Vision</h3>
  <p align="center">
 The Visions website is a digital platform showcasing Center Centre's work in advancing design and UX education. It highlights programs, resources, and collaborations aimed at fostering innovation and professional growth in the user experience industry.
   </p>
@@ -41,7 +41,7 @@ The Visions website is a digital platform showcasing Center Centre's work in adv
         <br>
       <!-- PROJECT 3 -->         
 
- <h3 align="center" color="white">Boston Code & Coffee</h2>
+ <h3 align="center" color="white">Boston Code & Coffee</h3>
       <br>
  <p align="center">
 An Open Source Project for Boston Code & Coffee. The website serves as a hub for event information, community updates, and resources, supporting the group's mission to foster collaboration and learning in the Boston tech community.  </p>
@@ -52,7 +52,7 @@ An Open Source Project for Boston Code & Coffee. The website serves as a hub for
    <br>
         <br>
 <!-- PROJECT 4 -->         
-  <h3 align="center" color="white">Gather</h2>
+  <h3 align="center" color="white">Gather</h3>
       <br>
  <p align="center">
 A comprehensive potluck event management application. Allows users to log in,create new events and add items with descriptions.  </p>
@@ -63,7 +63,7 @@ A comprehensive potluck event management application. Allows users to log in,cre
    <br>
         <br>
      <!-- PROJECT 5 -->      
-  <h3 align="center" color="white">DevDays</h2>
+  <h3 align="center" color="white">DevDays</h3>
       <br>
  <p align="center">
   DevDays gives developers a single location to keep a journal about their day-to-day work.
@@ -76,7 +76,7 @@ A comprehensive potluck event management application. Allows users to log in,cre
         <br>
         <br>
          <!-- PROJECT 6 -->         
-  <h3 align="center" color="white">DrinkScript</h2>
+  <h3 align="center" color="white">DrinkScript</h3>
       <br>
  <p align="center">
 A Single Page Web Application that dynamically generates cocktail recipes.The site features a real-time search bar, providing instant results as users type, ensuring a fast and intuitive user experience.  </p>
@@ -87,7 +87,7 @@ A Single Page Web Application that dynamically generates cocktail recipes.The si
  <br>
         <br>
          <!-- PROJECT 7 -->         
-  <h3 align="center" color="white">Boston Code & Coffee</h2>
+  <h3 align="center" color="white">Boston Code & Coffee</h3>
       <br>
  <p align="center">
   An Open Source Project for a Boston Code & Coffee meetup.
