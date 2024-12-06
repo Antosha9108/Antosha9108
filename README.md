@@ -34,7 +34,7 @@ The UX Metrics website provides tools and resources for measuring and improving 
 The Visions website is a digital platform showcasing Center Centre's work in advancing design and UX education. It highlights programs, resources, and collaborations aimed at fostering innovation and professional growth in the user experience industry.
   </p>
   <div align="center" >
-      <a href="https://visions.centercentre.com/">   
+      <a href="https://visions-demo.netlify.app">   
       <img src="https://github.com/user-attachments/assets/877efcb7-ad77-4565-812c-d43e86ff424f" />
   </div>   
         <br>
