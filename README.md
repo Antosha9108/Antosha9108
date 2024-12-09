@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React, data structures and algorithms**
 
-- 👨‍💻 All of my projects are available at [antonxdev.netlify.app](https://antonxdev.netlify.app)
+- 👨‍💻 All of my projects are available at [antondev.me](https://antondev.me)
 
 - 📫 How to reach me **antonxdev@proton.me**
 
